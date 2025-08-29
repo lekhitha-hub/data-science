@@ -1,0 +1,93 @@
+<html>
+<head>
+<title>html table</title>
+<link rel="style sheet" type="text less" href="styles.css">
+</head>
+<body>
+<table border="5" cellpadding="3" cellspacing="3">
+<caption class="caption-text">TIME TABLE</caption>
+<tr align="center">
+<th> DAY </th>
+<th> 9:00 AM to 9:45 AM  </th>
+<th> 9:45 AM to 10:30 AM </th>
+<th> 10:30 AM to 10:45 AM </th>
+<th> 10:45 AM to 11:30 AM </th>
+<th> 11:30 AM to 12:15 AM </th>
+<th> 12:15 PM to 1:00 PM </th>
+<th> 1:00 PM to 1:45 PM </th>
+<th> 1:45 PM to 2:30 PM </th>
+<th> 2:30 PM to 2:45 PM </th>
+<th> 2:45 PM to 3:30 PM </th>
+<th> 3:30 AM to 4:15 PM </th>
+</tr>
+<tr align="center"> 
+<th> MONDAY </th>
+<td> STATISTICS </td>
+<td> WEB TECHNOLOGY </td>
+<td rowspan="6"> LUNCH BREAK </td>
+<td> PYTHON </td>
+<td> JAVA </td>
+<td rowspan="6"> LUNCH BREAK </td>
+<td> DATA MINING </td>
+<td> LAB </td>
+</tr>
+<tr align="center">
+<td> TUESDAY </td>
+<td> SOFT SKILLS </td> 
+<td> PUBLIC ADMINISTRATIONS </td>
+<td> STATISTICS </td>
+<td> WEB TECHNOLOGY </td>
+<td> PYTHON </td>
+<td> JAVA </td>
+<td> DATA MINING </td>
+<td> LAB </td>
+</tr>
+<tr align="center">
+<th> WEDNESDAY </th>
+<td> SOFT SKILLS </td>
+<td> PUBLIC ADMINISTATION </td>
+<td> STATISTICS </td>
+<td> WEB TECHNOLOGY </td>
+<td> PYTHON </td>
+<td> JAVA </td>
+<td> DATA MINING </td>
+<td> LAB </td>
+</tr>
+<tr align="center">
+<th> THURSDAY </th>
+<td> STATISTICS </td>
+<td> CRT </td>
+<td> ICT </td>
+<td> WEB TECHNOLOGY </td>
+<td> PYTHON </td>
+<td> JAVA </td>
+<td> DATA MINING </td>
+<td> LAB </td>
+</tr>
+<tr align="center">
+<th> FRIDAY </th>
+<td> STATISTICS </td>
+<td> CRT </td>
+<td> ICT </td>
+<td> WEB TECHNOLOGY </td>
+<td> PYTHON </td>
+<td> JAVA </td>
+<td> DATA MINING </td>
+<td> LAB </td>
+</tr>
+<tr align="center">
+<th> SATURDAY </th>
+<td> STATISTICS </td>
+<td> CRT </td>
+<td> ICT </td>
+<td> WEB TECHNOLOGY </td>
+<td> PYTHON </td>
+<td> JAVA </td>
+<td> DATA MINING </td>
+<td> LAB </td>
+</tr>
+</table>
+</body>
+</html>
+
+
